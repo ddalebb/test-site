@@ -1,5 +1,8 @@
 body {
     background-image: url("background2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
     font-family: helvetica, arial, sans-serif;
     font-size: 40px;
     color: black;
@@ -17,7 +20,7 @@ p {
 
 h1 {
     color: #E21212;
-    font-size: 2em;
+    font-size: 80px;
     margin: 0;
     margin-bottom: 7px;
     font-style: normal;
