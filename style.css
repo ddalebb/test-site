@@ -3,8 +3,9 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 100vh;
-    font-family: helvetica, arial, sans-serif;
+    font-family: "Courier New", Courier, monospace;
     font-size: 40px;
+    -webkit-font-smoothing: antialiased;
     color: black;
     margin: 10px;
     padding: 0;
@@ -16,14 +17,15 @@ p {
     color: #FFFFFF;
     line-height: 1;
     font-style: normal;
+    -webkit-font-smoothing: antialiased;
 }
 
 h1 {
-    color: #E21212;
+    color: #9e9e9e;
     font-size: 80px;
     margin: 0;
     margin-bottom: 7px;
-    font-style: normal;
+    font-weight: 500;
     text-align: left;
     letter-spacing: 0;
     border-bottom-style: solid;
