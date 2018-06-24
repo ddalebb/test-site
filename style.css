@@ -5,7 +5,7 @@ body {
     min-height: 100vh;
     font-family: "Courier New", Courier, monospace;
     font-size: 40px;
-    -webkit-font-smoothing: antialiased;
+    text-shadow: 2px 2px 4px #000;
     color: black;
     margin: 10px;
     padding: 0;
@@ -17,7 +17,6 @@ p {
     color: #FFFFFF;
     line-height: 1;
     font-style: normal;
-    -webkit-font-smoothing: antialiased;
 }
 
 h1 {
