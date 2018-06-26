@@ -42,3 +42,30 @@ h3 {
     color: #999;
     font-size: 1.25em;
 }
+
+.doodle{
+  position: absolute;
+  height: 92px;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.link{
+display: inline-block;
+vertical-align: top;
+}
+
+.link-dscr{
+  display: inline-block;
+  width: 75%;
+  color: gray;
+  font-size: 30px;
+}
+.logo{
+  height: 69px;
+  width: 204px;
+}
+
+.logo:hover{
+  opacity: .75;
+}
